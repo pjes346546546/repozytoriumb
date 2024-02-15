@@ -93,7 +93,7 @@ int main() {
                 break;
             }
             case 5: {
-                // Wyszukiwanie interpolacyjne - do zaimplementowania
+                
                 break;
             }
             default: {

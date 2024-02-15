@@ -15,7 +15,7 @@ void linear_search_with_sentry(int table_size, int * table, int searched);
 
 int binary_search(int table_size, int * table, int searched);
 
-int * insert_sort(int table_size, int * table); // Dodajemy deklarację funkcji insert_sort
+int * insert_sort(int table_size, int * table);
 
 void quick_sort(int* table, int leftIndex, int rightIndex);
 

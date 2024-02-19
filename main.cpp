@@ -17,9 +17,9 @@ int main() {
     cin >> choice;
     if (choice == 1) {
         cout << "Napisz liczbe sortowania które chcesz uzyskać:\n";
-  cout << "1 dla przez scalanie\n";
+        cout << "1 dla przez scalanie\n";
         cout << "2 dla bąbelkowego\n";
-  cout << "3 dla przez wstawianie\n";
+        cout << "3 dla przez wstawianie\n";
         cout << "4 dla koktajlowego\n";
         cout << "5 dla szybkiego\n";
         cin >> choice;
